@@ -6,7 +6,7 @@ body{
 }  
 
 .main {
-    background: rgb(27, 48, 47, 0.4); /* you can find the color combination online - google css color picker. The last value is the opacity */
+    background: rgb(27, 48, 47, 0.3); /* you can find the color combination online - google css color picker. The last value is the opacity */
     margin: 1rem; /* see referance for how padding and margins apply */
     padding: 2rem; /* see referance for how padding and margins apply */
     font-size: 1rem; /* rem is unit of measurement relative to font-size of the root element */
@@ -16,7 +16,7 @@ body{
     overflow: hidden;
     padding: 0rem;
     margin: 0rem;
-    background-image: url('https://media.istockphoto.com/videos/blue-neon-light-abstract-visual-geometry-motion-graphic-technology-video-id1179960209?s=640x640');  
+    background-image: url('https://media.istockphoto.com/videos/blue-neon-light-abstract-visual-geometry-motion-graphic-technology-video-id1179960209?s=640x640'); 
   
 }
   

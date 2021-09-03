@@ -79,10 +79,10 @@
       </div> <!-- This is the end of div box1 -->
       
       <div class ='center'>
-        <button type='button' onclick="toggleText3()" class="btn">Group Sketch 2</button>
+        <button type='button' onclick="toggleText5()" class="btn">Group Sketch 2</button>
       </div>
       
-      <div class="interactive" id='interactive3' style='display: none'>
+      <div class="interactive" id='interactive5' style='display: none'>
         <div class='box1'>
           <br>
           <p class='box2'>Enter one line description here...</p> <!-- p is paragraph -->
@@ -134,6 +134,14 @@
       }
     }
 
+    function toggleText5(text) {
+      var text = document.getElementById("interactive5");
+      if (text.style.display === "none") {
+        text.style.display = "block";
+      } else {
+        text.style.display = "none";
+      }
+    }
   </script>
 
 </html>
