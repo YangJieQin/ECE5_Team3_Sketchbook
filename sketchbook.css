@@ -2,7 +2,7 @@ body{
   background-image: url('https://cityviewmag.com/wp-content/uploads/2020/10/SmartHomeMag-iStock-973374462-scaled.jpg'); /*Seeting the background image. Ypu can change this by changing the link!*/
   background-size: cover;
   margin: 0rem; /* see referance for how padding and margins apply */
-  font-family: Verdana, sans-serif; /*You can change the font here*/
+  font-family: Trebuchet MS, Verdana; /*You can change the font here*/
 }  
 
 .main {
